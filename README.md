@@ -3,7 +3,7 @@ Intermediate submission for Open Source Challenge
 
 ## Demo Video
 
-Coming soon!
+https://drive.google.com/file/d/1d4qt5-291bd63U3U0KHMezzkyFG5qJpk/view?usp=sharing
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
